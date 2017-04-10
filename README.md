@@ -3,32 +3,32 @@
 | :--- | :---: | :--- | :--- | :---: |
 |	27 Jan 2017 	|	﻿29 Jan 2017 	|	[DevConf] (https://devconf.cz)	|	Brno, CZ	|	TBD	|
 |	20 Feb 2017 	|	﻿24 Feb 2017 	|	Cisco Live Berlin	|	Berlin, GE	|	Speaking (2)	|
-|	﻿10 May 2017 	|	﻿11 May 2017 	|	[OSCON 2017] (https://conferences.oreilly.com/oscon/oscon-tx)	|	Austin, TX	|	Speaking	|
-|	﻿21 Feb 2017 	|	﻿23 Feb 2017 	|	Container World (ext)	|	Santa Clara, CA	|	Speaking	|
-|	﻿02 Mar 2017 	|	﻿05 Mar 2017 	|	Scale x15 (ext)	|	Pasadena, CA	|	Speaking	|
-|	﻿03 Mar 2017 	|	﻿04 Mar 2017 	|	FutureTech (ext)	|	Huntsville, TX	|	Speaking	|
-|	﻿08 Mar 2017﻿ 	|	﻿08 Mar 2017﻿ 	|	Oracle Code	|	Austin, TX	|	Attending	|
-|	﻿05 Dec 2017 	|	﻿08 Dec 2017 	|	UCC 2017 (ext)	|	Austin, TX	|	TBD	|
-|	﻿29 Mar 2017 	|	﻿30 Mar 2017 	|	CloudNativeCon EU 2017 (ext)	|	Berlin, GE	|	TBD	|
-|	﻿16 Mar 2017 	|	﻿16 Mar 2017 	|	O'Reilly Webcast (ext)	|	Austin, TX	|	Speaking	|
-|	﻿27 Nov 2017 	|	﻿01 Dec 2017 	|	AWS re:Invent (ext)	|	Las Vegas, NV	|	Sponsoring	|
-|	﻿09 Oct 2017 	|	﻿11 Oct 2017 	|	SpiceWorld (ext)	|	Austin, TX	|	TBD	|
-|	﻿14 Feb 2017﻿	|	﻿16 Feb 2017 	|	SQL Konferenz (ext)	|	Darmstadt, GE	|	Sponsoring	|
-|	﻿20 Jun 2017 	|	﻿22 Jun 2017 	|	Fluent (ext), Velocity (ext )	|	San Jose, CA	|	Speaking	|
-|	﻿26 Apr 2017 	|	﻿27 Apr 2017 	|	ServerlessConf (discount code)	|	Austin, TX	|	Podcasting	|
-|	﻿26 Apr 2017 	|	﻿27 Apr 2017 	|	ONUG Spring (ext)	|	San Francisco, CA	|	Attending	|
-|	﻿17 Oct 2017 	|	﻿18 Oct 2017 	|	ONUG Fall (ext)	|	New York, NY	|	Attending	|
-|	﻿17 Apr 2017 	|	﻿20 Apr 2017 	|	DockerCon NA 2017 (ext)	|	Austin, TX	|	Attending	|
-|	﻿06 Dec 2017 	|	﻿07 Dec 2017 	|	CloudNativeCon NA 2017 (ext)	|	Austin, TX	|	Attending	|
-|	﻿03 Apr 2017 	|	﻿06 Apr 2017 	|	Open Networking Summit (ext)	|	Santa Clara, CA	|	TBD	|
-|	﻿22 May 2017 	|	﻿24 May 2017 	|	ChefConf (ext) 	|	Austin, TX	|	Attending	|
-|	﻿21 Aug 2017 	|	﻿25 Aug 2017 	|	SIGCOMM 2017 (ext)	|	Los Angeles	|	TBD	|
-|	﻿29 Nov 2017 	|	﻿02 Dec 2017 	|	Node.js Conference (ext)	|	Austin, TX	|	Attending	|
-|	﻿04 May 2017 	|	﻿05 May 2017 	|	DevOpsDays Austin (ext)	|	Austin, TX	|	Speaking	|
+|	10 May 2017 	|	﻿11 May 2017 	|	[OSCON 2017] (https://conferences.oreilly.com/oscon/oscon-tx)	|	Austin, TX	|	Speaking	|
+|	21 Feb 2017 	|	﻿23 Feb 2017 	|	[Container World] (https://tmt.knect365.com/container-world/)	|	Santa Clara, CA	|	Speaking	|
+|	02 Mar 2017 	|	﻿05 Mar 2017 	|	[Scale x15] (http://www.socallinuxexpo.org/scale/15x/)	|	Pasadena, CA	|	Speaking	|
+|	03 Mar 2017 	|	﻿04 Mar 2017 	|	[FutureTech] (http://www.shacs.org/conf/)	|	Huntsville, TX	|	Speaking	|
+|	08 Mar 2017 	|	﻿08 Mar 2017﻿ 	|	Oracle Code	|	Austin, TX	|	Attending	|
+|	05 Dec 2017 	|	﻿08 Dec 2017 	|	[UCC 2017] (http://ucc-conference.org)	|	Austin, TX	|	TBD	|
+|	29 Mar 2017 	|	﻿30 Mar 2017 	|	[CloudNativeCon EU 2017] (http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe)	|	Berlin, GE	|	TBD	|
+|	16 Mar 2017 	|	﻿16 Mar 2017 	|	[O'Reilly Webcast] (http://www.oreilly.com/pub/e/3864)	|	Austin, TX	|	Speaking	|
+|	27 Nov 2017 	|	﻿01 Dec 2017 	|	[AWS re:Invent] (https://reinvent.awsevents.com)	|	Las Vegas, NV	|	Sponsoring	|
+|	09 Oct 2017 	|	﻿11 Oct 2017 	|	[SpiceWorld] (https://www.spiceworks.com/spiceworld/)	|	Austin, TX	|	TBD	|
+|	14 Feb 2017﻿	|	﻿16 Feb 2017 	|	SQL Konferenz (ext)	|	Darmstadt, GE	|	Sponsoring	|
+|	20 Jun 2017 	|	﻿22 Jun 2017 	|	[Fluent] (https://conferences.oreilly.com/fluent/fl-ca) and [Velocity] (https://conferences.oreilly.com/velocity/vl-ca)	|	San Jose, CA	|	Speaking	|
+|	26 Apr 2017 	|	﻿27 Apr 2017 	|	[ServerlessConf] (https://austin.serverlessconf.io/) and [discount code] (https://www.eventbrite.com/e/serverlessconf-austin-tickets-32274984347?discount=MicroservicesAustin10)	|	Austin, TX	|	Podcasting	|
+|	26 Apr 2017 	|	﻿27 Apr 2017 	|	ONUG Spring (ext)	|	San Francisco, CA	|	Attending	|
+|	17 Oct 2017 	|	﻿18 Oct 2017 	|	ONUG Fall (ext)	|	New York, NY	|	Attending	|
+|	17 Apr 2017 	|	﻿20 Apr 2017 	|	[DockerCon NA 2017] (http://2017.dockercon.com)	|	Austin, TX	|	Attending	|
+|	06 Dec 2017 	|	﻿07 Dec 2017 	|	CloudNativeCon NA 2017 (ext)	|	Austin, TX	|	Attending	|
+|	03 Apr 2017 	|	﻿06 Apr 2017 	|	Open Networking Summit (ext)	|	Santa Clara, CA	|	TBD	|
+|	22 May 2017 	|	﻿24 May 2017 	|	ChefConf (ext) 	|	Austin, TX	|	Attending	|
+|	21 Aug 2017 	|	﻿25 Aug 2017 	|	SIGCOMM 2017 (ext)	|	Los Angeles	|	TBD	|
+|	29 Nov 2017 	|	﻿02 Dec 2017 	|	[Node.js Conference] (http://events.linuxfoundation.org/events/node-interactive)	|	Austin, TX	|	Attending	|
+|	04 May 2017 	|	﻿05 May 2017 	|	[DevOpsDays Austin] (http://www.devopsdaysaustin.com)	|	Austin, TX	|	Speaking	|
 |	﻿11 May 2017 	|	﻿11 May 2017 	|	SolarWinds Tech Summit	|	Krakow, TX	|	Speaking	|
-|	﻿07 Sep 2017﻿	|	﻿09 Sep 2017 	|	Nginx Conference (ext)	|	Austin, TX	|	Speaking	|
+|	﻿07 Sep 2017﻿	|	﻿09 Sep 2017 	|	[Nginx Conference] (https://www.nginx.com/nginxconf/)	|	Austin, TX	|	Speaking	|
 |	﻿26 Oct 2017 	|	﻿27 Oct 2017 	|	AllThingsOpen (ext)	|	Raleigh, NC	|	Speaking	|
-|	﻿18 Oct 2017 	|	﻿20 Oct 2017 	|	Reactive Summit (ext)	|	Austin, TX	|	TBD	|
+|	﻿18 Oct 2017 	|	﻿20 Oct 2017 	|	[Reactive Summit] (http://www.reactivesummit.org)	|	Austin, TX	|	TBD	|
 |	﻿19 Jul 2017 	|	﻿19 Jul 2017 	|	Container Summit (ext)	|	Austin, TX	|	Hosting	|
 |	﻿27 Jun 2017 	|	﻿30 Jun 2017 	|	QConf SF (ext)	|	New York, NY	|	TBD	|
 |	﻿30 Sep 2017 	|	﻿30 Sep 2017﻿	|	ContainerizeThis (ext)	|	Dallas, TX	|	TBD	|
