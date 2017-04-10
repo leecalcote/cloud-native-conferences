@@ -18,7 +18,7 @@
 |	3-Apr-17	|	6-Apr-17	|	[Open Networking Summit](http://events.linuxfoundation.org/events/open-networking-summit/)	|	Santa Clara, CA	|	TBD	|
 |	17-Apr-17	|	20-Apr-17	|	[DockerCon NA 2017](http://2017.dockercon.com)	|	Austin, TX	|	Attending	|
 |	24-Apr-17	|	27-Apr-17	|	Percona 2017	|	Santa Clara, CA	|	Sponsoring	|
-|	26-Apr-17	|	27-Apr-17	|	[ServerlessConf](https://austin.serverlessconf.io/) and [discount code] (https://www.eventbrite.com/e/serverlessconf-austin-tickets-32274984347?discount=MicroservicesAustin10)	|	Austin, TX	|	Podcasting	|
+|	26-Apr-17	|	27-Apr-17	|	[ServerlessConf](https://austin.serverlessconf.io/) and [discount code](https://www.eventbrite.com/e/serverlessconf-austin-tickets-32274984347?discount=MicroservicesAustin10)	|	Austin, TX	|	Podcasting	|
 |	26-Apr-17	|	27-Apr-17	|	ONUG Spring	|	San Francisco, CA	|	Attending	|
 |	4-May-17	|	5-May-17	|	[DevOpsDays Austin](http://www.devopsdaysaustin.com)	|	Austin, TX	|	Speaking	|
 |	8-May-17	|	12-May-17	|	[OpenStack Summit](https://www.openstack.org/summit)	|	Boston, MA	|	TBD	|
