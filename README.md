@@ -1,23 +1,23 @@
 # cloud-native-conferences-2017
 | Start Date | End Date | Conference | Location | Partcipation |
-| :--- | :---: | ---: | ---: | ---: |
+| :--- | :---: | :--- | :--- | :---: |
 |	27 Jan 2017 	|	29 Jan 2017 	|	DevConf (ext)	|	Brno, CZ	|	TBD	|
-|	﻿20 Feb 2017 	|	﻿24 Feb 2017 	|	Cisco Live Berlin (ext)	|	Berlin, GE	|	Speaking (2)	|
-|	﻿10 May 2017 	|	﻿11 May 2017 	|	OSCON 2017 (ext)	|	Austin, TX	|	Speaking	|
-|	﻿21 Feb 2017 	|	﻿23 Feb 2017 	|	Container World (ext)	|	Santa Clara, CA	|	Speaking	|
-|	﻿02 Mar 2017 	|	﻿05 Mar 2017 	|	Scale x15 (ext)	|	Pasadena, CA	|	Speaking	|
-|	﻿03 Mar 2017 	|	﻿04 Mar 2017 	|	FutureTech (ext)	|	Huntsville, TX	|	Speaking	|
-|	﻿08 Mar 2017﻿ 	|	﻿08 Mar 2017﻿ 	|	Oracle Code	|	Austin, TX	|	Attending	|
-|	﻿05 Dec 2017 	|	﻿08 Dec 2017 	|	UCC 2017 (ext)	|	Austin, TX	|	TBD	|
-|	﻿29 Mar 2017 	|	﻿30 Mar 2017 	|	CloudNativeCon EU 2017 (ext)	|	Berlin, GE	|	TBD	|
-|	﻿16 Mar 2017 	|	﻿16 Mar 2017 	|	O'Reilly Webcast (ext)	|	Austin, TX	|	Speaking	|
-|	﻿27 Nov 2017 	|	﻿01 Dec 2017 	|	AWS re:Invent (ext)	|	Las Vegas, NV	|	Sponsoring	|
-|	﻿09 Oct 2017 	|	﻿11 Oct 2017 	|	SpiceWorld (ext)	|	Austin, TX	|	TBD	|
-|	﻿14 Feb 2017﻿	|	﻿16 Feb 2017 	|	SQL Konferenz (ext)	|	Darmstadt, GE	|	Sponsoring	|
-|	﻿20 Jun 2017 	|	﻿22 Jun 2017 	|	Fluent (ext), Velocity (ext )	|	San Jose, CA	|	Speaking	|
-|	﻿26 Apr 2017 	|	﻿27 Apr 2017 	|	ServerlessConf (discount code)	|	Austin, TX	|	Podcasting	|
-|	﻿26 Apr 2017 	|	﻿27 Apr 2017 	|	ONUG Spring (ext)	|	San Francisco, CA	|	Attending	|
-|	﻿17 Oct 2017 	|	﻿18 Oct 2017 	|	ONUG Fall (ext)	|	New York, NY	|	Attending	|
+|	20 Feb 2017 	|	﻿24 Feb 2017 	|	Cisco Live Berlin (ext)	|	Berlin, GE	|	Speaking (2)	|
+|	10 May 2017 	|	﻿11 May 2017 	|	OSCON 2017 (ext)	|	Austin, TX	|	Speaking	|
+|	21 Feb 2017 	|	﻿23 Feb 2017 	|	Container World (ext)	|	Santa Clara, CA	|	Speaking	|
+|	02 Mar 2017 	|	﻿05 Mar 2017 	|	Scale x15 (ext)	|	Pasadena, CA	|	Speaking	|
+|	03 Mar 2017 	|	﻿04 Mar 2017 	|	FutureTech (ext)	|	Huntsville, TX	|	Speaking	|
+|	08 Mar 2017  	|	﻿08 Mar 2017﻿ 	|	Oracle Code	|	Austin, TX	|	Attending	|
+|	05 Dec 2017 	|	﻿08 Dec 2017 	|	UCC 2017 (ext)	|	Austin, TX	|	TBD	|
+|	29 Mar 2017 	|	﻿30 Mar 2017 	|	CloudNativeCon EU 2017 (ext)	|	Berlin, GE	|	TBD	|
+|	16 Mar 2017 	|	﻿16 Mar 2017 	|	O'Reilly Webcast (ext)	|	Austin, TX	|	Speaking	|
+|	27 Nov 2017 	|	﻿01 Dec 2017 	|	AWS re:Invent (ext)	|	Las Vegas, NV	|	Sponsoring	|
+|	09 Oct 2017 	|	﻿11 Oct 2017 	|	SpiceWorld (ext)	|	Austin, TX	|	TBD	|
+|	14 Feb 2017 	|	﻿16 Feb 2017 	|	SQL Konferenz (ext)	|	Darmstadt, GE	|	Sponsoring	|
+|	20 Jun 2017 	|	﻿22 Jun 2017 	|	Fluent (ext), Velocity (ext )	|	San Jose, CA	|	Speaking	|
+|	26 Apr 2017 	|	﻿27 Apr 2017 	|	ServerlessConf (discount code)	|	Austin, TX	|	Podcasting	|
+|	26 Apr 2017 	|	﻿27 Apr 2017 	|	ONUG Spring (ext)	|	San Francisco, CA	|	Attending	|
+|	17 Oct 2017 	|	﻿18 Oct 2017 	|	ONUG Fall (ext)	|	New York, NY	|	Attending	|
 |	17 Apr 2017 	|	﻿20 Apr 2017 	|	DockerCon NA 2017 (ext)	|	Austin, TX	|	Attending	|
 |	06 Dec 2017 	|	07 Dec 2017 	|	CloudNativeCon NA 2017 (ext)	|	Austin, TX	|	Attending	|
 |	03 Apr 2017 	|	06 Apr 2017 	|	Open Networking Summit (ext)	|	Santa Clara, CA	|	TBD	|
