@@ -1,4 +1,4 @@
-# Curated list of technology conferences within the cloud native ecosystem.
+### A curated list of technology conferences within the cloud native ecosystem.
 | Start Date | End Date | Conference | Location | Partcipation |
 | :--- | :---: | :--- | :--- | :---: |
 |	6-Jan-17	|	6-Jan-17	|	[Dynatrace DevOne](https://devone.at)	|	Linz, AU	|	TBD	|
