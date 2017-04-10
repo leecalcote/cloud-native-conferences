@@ -27,7 +27,7 @@
 |	22-May-17	|	24-May-17	|	[ChefConf](https://chefconf.chef.io/2017/) 	|	Austin, TX	|	Attending	|
 |	22-May-17	|	24-May-17	|	[Monitorama](http://monitorama.com)	|	Portland, OR	|	Sponsoring	|
 |	20-Jun-17	|	22-Jun-17	|	[Fluent](https://conferences.oreilly.com/fluent/fl-ca) and [Velocity](https://conferences.oreilly.com/velocity/vl-ca)	|	San Jose, CA	|	Speaking	|
-|	22-Jun-17	|	22-Jun-17	|	Ansible [Fest] (https://www.ansible.com/ansiblefest)	|	London, UK	|	No	|
+|	22-Jun-17	|	22-Jun-17	|	[AnsibleFest](https://www.ansible.com/ansiblefest)	|	London, UK	|	No	|
 |	27-Jun-17	|	30-Jun-17	|	[QConf SF](https://qconferences.com)	|	New York, NY	|	TBD	|
 |	8-Jul-17	|	8-Jul-17	|	[Texas Linux Fest](http://2016.texaslinuxfest.org)	|	Austin, TX	|	TBD	|
 |	19-Jul-17	|	19-Jul-17	|	[Container Summit](http://containersummit.io/city-series/2016/austin)	|	Austin, TX	|	Hosting	|
@@ -40,7 +40,7 @@
 |	9-Oct-17	|	11-Oct-17	|	[SpiceWorld](https://www.spiceworks.com/spiceworld/)	|	Austin, TX	|	TBD	|
 |	14-Oct-17	|	15-Oct-17	|	[ContainerDays Austin](http://www.containerdaysaustin.com)	|	Austin, TX	|	Speaking	|
 |	17-Oct-17	|	18-Oct-17	|	ONUG Fall (ext)	|	New York, NY	|	Attending	|
-|	18-Oct-17	|	20-Oct-17	|	[Reactive Summit] (http://www.reactivesummit.org)	|	Austin, TX	|	TBD	|
+|	18-Oct-17	|	20-Oct-17	|	[Reactive Summit](http://www.reactivesummit.org)	|	Austin, TX	|	TBD	|
 |	26-Oct-17	|	27-Oct-17	|	[AllThingsOpen](https://allthingsopen.org)	|	Raleigh, NC	|	Speaking	|
 |	13-Nov-17	|	17-Nov-17	|	[QConf SF](https://qconferences.com)(ext)	|	San Francisco, CA	|	TBD	|
 |	27-Nov-17	|	1-Dec-17	|	[AWS re:Invent](https://reinvent.awsevents.com)	|	Las Vegas, NV	|	Sponsoring	|
