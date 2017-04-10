@@ -19,7 +19,7 @@
 |	17-Apr-17	|	20-Apr-17	|	[DockerCon NA 2017](http://2017.dockercon.com)	|	Austin, TX	|	Attending	|
 |	24-Apr-17	|	27-Apr-17	|	Percona 2017	|	Santa Clara, CA	|	Sponsoring	|
 |	26-Apr-17	|	27-Apr-17	|	[ServerlessConf](https://austin.serverlessconf.io/) and [discount code](https://www.eventbrite.com/e/serverlessconf-austin-tickets-32274984347?discount=MicroservicesAustin10)	|	Austin, TX	|	Podcasting	|
-|	26-Apr-17	|	27-Apr-17	|	ONUG Spring	|	San Francisco, CA	|	Attending	|
+|	26-Apr-17	|	27-Apr-17	|	[ONUG Spring](https://opennetworkingusergroup.com)	|	San Francisco, CA	|	Attending	|
 |	4-May-17	|	5-May-17	|	[DevOpsDays Austin](http://www.devopsdaysaustin.com)	|	Austin, TX	|	Speaking	|
 |	8-May-17	|	12-May-17	|	[OpenStack Summit](https://www.openstack.org/summit)	|	Boston, MA	|	TBD	|
 |	10-May-17	|	11-May-17	|	[OSCON 2017](https://conferences.oreilly.com/oscon/oscon-tx)	|	Austin, TX	|	Speaking	|
@@ -39,7 +39,7 @@
 |	30-Sep-17	|	30-Sep-17	|	[ContainerizeThis](http://devopsconferences.org/events/containerizethis)	|	Dallas, TX	|	TBD	|
 |	9-Oct-17	|	11-Oct-17	|	[SpiceWorld](https://www.spiceworks.com/spiceworld/)	|	Austin, TX	|	TBD	|
 |	14-Oct-17	|	15-Oct-17	|	[ContainerDays Austin](http://www.containerdaysaustin.com)	|	Austin, TX	|	Speaking	|
-|	17-Oct-17	|	18-Oct-17	|	ONUG Fall (ext)	|	New York, NY	|	Attending	|
+|	17-Oct-17	|	18-Oct-17	|	[ONUG Fall](https://opennetworkingusergroup.com)	|	New York, NY	|	Attending	|
 |	18-Oct-17	|	20-Oct-17	|	[Reactive Summit](http://www.reactivesummit.org)	|	Austin, TX	|	TBD	|
 |	26-Oct-17	|	27-Oct-17	|	[AllThingsOpen](https://allthingsopen.org)	|	Raleigh, NC	|	Speaking	|
 |	13-Nov-17	|	17-Nov-17	|	[QConf SF](https://qconferences.com)(ext)	|	San Francisco, CA	|	TBD	|
