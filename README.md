@@ -1,32 +1,32 @@
 # cloud-native-conferences-2017
 | Start Date | End Date | Conference | Location | Partcipation |
 | :--- | :---: | :--- | :--- | :---: |
-|	6-Jan-17	|	6-Jan-17	|	[Dynatrace DevOne] (https://devone.at)	|	Linz, AU	|	TBD	|
-|	19-Jan-17	|	19-Jan-17	|	[VTUG Winter Warmer 2017] (http://events.vtug.com)	|	Foxboro, MA	|	No	|
-|	27-Jan-17	|	29-Jan-17	|	[DevConf] (https://devconf.cz)	|	Brno, CZ	|	TBD	|
-|	14-Feb-17	|	16-Feb-17	|	SQL Konferenz (ext)	|	Darmstadt, GE	|	Sponsoring	|
+|	6-Jan-17	|	6-Jan-17	|	[Dynatrace DevOne](https://devone.at)	|	Linz, AU	|	TBD	|
+|	19-Jan-17	|	19-Jan-17	|	[VTUG Winter Warmer 2017](http://events.vtug.com)	|	Foxboro, MA	|	No	|
+|	27-Jan-17	|	29-Jan-17	|	[DevConf](https://devconf.cz)	|	Brno, CZ	|	TBD	|
+|	14-Feb-17	|	16-Feb-17	|	SQL Konferenz	|	Darmstadt, GE	|	Sponsoring	|
 |	20-Feb-17	|	24-Feb-17	|	Cisco Live Berlin	|	Berlin, GE	|	Speaking (2)	|
-|	21-Feb-17	|	23-Feb-17	|	[Container World] (https://tmt.knect365.com/container-world/)	|	Santa Clara, CA	|	Speaking	|
-|	2-Mar-17	|	5-Mar-17	|	[Scale x15] (http://www.socallinuxexpo.org/scale/15x/)	|	Pasadena, CA	|	Speaking	|
-|	3-Mar-17	|	4-Mar-17	|	[FutureTech] (http://www.shacs.org/conf/)	|	Huntsville, TX	|	Speaking	|
-|	6-Mar-17	|	8-Mar-17	|	Pure Accelerate (ext)	|	San Francisco, CA	|	Sponsoring	|
-|	7-Mar-17	|	10-Mar-17	|	[Cisco Live] (https://www.ciscolive.com/anz/)	|	Melbourne, AU	|	Speaking, Sponsoring	|
+|	21-Feb-17	|	23-Feb-17	|	[Container World](https://tmt.knect365.com/container-world/)	|	Santa Clara, CA	|	Speaking	|
+|	2-Mar-17	|	5-Mar-17	|	[Scale x15](http://www.socallinuxexpo.org/scale/15x/)	|	Pasadena, CA	|	Speaking	|
+|	3-Mar-17	|	4-Mar-17	|	[FutureTech](http://www.shacs.org/conf/)	|	Huntsville, TX	|	Speaking	|
+|	6-Mar-17	|	8-Mar-17	|	Pure Accelerate	|	San Francisco, CA	|	Sponsoring	|
+|	7-Mar-17	|	10-Mar-17	|	[Cisco Live](https://www.ciscolive.com/anz/)	|	Melbourne, AU	|	Speaking, Sponsoring	|
 |	8-Mar-17	|	8-Mar-17	|	Oracle Code	|	Austin, TX	|	Attending	|
-|	16-Mar-17	|	16-Mar-17	|	[O'Reilly Webcast] (http://www.oreilly.com/pub/e/3864)	|	Austin, TX	|	Speaking	|
-|	27-Mar-17	|	27-Mar-17	|	[MicroservicesDay} (http://microservicesday.com)	|	New York, NY	|	No	|
-|	29-Mar-17	|	30-Mar-17	|	[CloudNativeCon EU 2017] (http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe)	|	Berlin, GE	|	TBD	|
-|	3-Apr-17	|	6-Apr-17	|	[Open Networking Summit] (http://events.linuxfoundation.org/events/open-networking-summit/)	|	Santa Clara, CA	|	TBD	|
-|	17-Apr-17	|	20-Apr-17	|	[DockerCon NA 2017] (http://2017.dockercon.com)	|	Austin, TX	|	Attending	|
-|	24-Apr-17	|	27-Apr-17	|	Percona 2017 (ext)	|	Santa Clara, CA	|	Sponsoring	|
-|	26-Apr-17	|	27-Apr-17	|	[ServerlessConf] (https://austin.serverlessconf.io/) and [discount code] (https://www.eventbrite.com/e/serverlessconf-austin-tickets-32274984347?discount=MicroservicesAustin10)	|	Austin, TX	|	Podcasting	|
-|	26-Apr-17	|	27-Apr-17	|	ONUG Spring (ext)	|	San Francisco, CA	|	Attending	|
-|	4-May-17	|	5-May-17	|	[DevOpsDays Austin] (http://www.devopsdaysaustin.com)	|	Austin, TX	|	Speaking	|
-|	8-May-17	|	12-May-17	|	[OpenStack Summit] (https://www.openstack.org/summit)	|	Boston, MA	|	TBD	|
-|	10-May-17	|	11-May-17	|	[OSCON 2017] (https://conferences.oreilly.com/oscon/oscon-tx)	|	Austin, TX	|	Speaking	|
+|	16-Mar-17	|	16-Mar-17	|	[O'Reilly Webcast](http://www.oreilly.com/pub/e/3864)	|	Austin, TX	|	Speaking	|
+|	27-Mar-17	|	27-Mar-17	|	[MicroservicesDay](http://microservicesday.com)	|	New York, NY	|	No	|
+|	29-Mar-17	|	30-Mar-17	|	[CloudNativeCon EU 2017](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe)	|	Berlin, GE	|	TBD	|
+|	3-Apr-17	|	6-Apr-17	|	[Open Networking Summit](http://events.linuxfoundation.org/events/open-networking-summit/)	|	Santa Clara, CA	|	TBD	|
+|	17-Apr-17	|	20-Apr-17	|	[DockerCon NA 2017](http://2017.dockercon.com)	|	Austin, TX	|	Attending	|
+|	24-Apr-17	|	27-Apr-17	|	Percona 2017	|	Santa Clara, CA	|	Sponsoring	|
+|	26-Apr-17	|	27-Apr-17	|	[ServerlessConf](https://austin.serverlessconf.io/) and [discount code] (https://www.eventbrite.com/e/serverlessconf-austin-tickets-32274984347?discount=MicroservicesAustin10)	|	Austin, TX	|	Podcasting	|
+|	26-Apr-17	|	27-Apr-17	|	ONUG Spring	|	San Francisco, CA	|	Attending	|
+|	4-May-17	|	5-May-17	|	[DevOpsDays Austin](http://www.devopsdaysaustin.com)	|	Austin, TX	|	Speaking	|
+|	8-May-17	|	12-May-17	|	[OpenStack Summit](https://www.openstack.org/summit)	|	Boston, MA	|	TBD	|
+|	10-May-17	|	11-May-17	|	[OSCON 2017](https://conferences.oreilly.com/oscon/oscon-tx)	|	Austin, TX	|	Speaking	|
 |	11-May-17	|	11-May-17	|	SolarWinds Tech Summit	|	Krakow, TX	|	Speaking	|
-|	22-May-17	|	24-May-17	|	[ChefConf] (https://chefconf.chef.io/2017/) 	|	Austin, TX	|	Attending	|
-|	22-May-17	|	24-May-17	|	[Monitorama ](http://monitorama.com)	|	Portland, OR	|	Sponsoring	|
-|	20-Jun-17	|	22-Jun-17	|	[Fluent] (https://conferences.oreilly.com/fluent/fl-ca) and [Velocity] (https://conferences.oreilly.com/velocity/vl-ca)	|	San Jose, CA	|	Speaking	|
+|	22-May-17	|	24-May-17	|	[ChefConf](https://chefconf.chef.io/2017/) 	|	Austin, TX	|	Attending	|
+|	22-May-17	|	24-May-17	|	[Monitorama](http://monitorama.com)	|	Portland, OR	|	Sponsoring	|
+|	20-Jun-17	|	22-Jun-17	|	[Fluent](https://conferences.oreilly.com/fluent/fl-ca) and [Velocity](https://conferences.oreilly.com/velocity/vl-ca)	|	San Jose, CA	|	Speaking	|
 |	22-Jun-17	|	22-Jun-17	|	Ansible [Fest] (https://www.ansible.com/ansiblefest)	|	London, UK	|	No	|
 |	27-Jun-17	|	30-Jun-17	|	QConf SF (ext)	|	New York, NY	|	TBD	|
 |	8-Jul-17	|	8-Jul-17	|	Texas Linux Fest (ext)	|	Austin, TX	|	TBD	|
