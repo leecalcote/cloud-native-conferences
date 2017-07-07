@@ -48,4 +48,5 @@
 |	5-Dec-17	|	9-Dec-17	|	[SolarWinds Tech Summit](https://www.solarwindsmeetup.com/event/techsummit-conference-2016/)	|	Brno, CZ	|	Speaking	|
 |	5-Dec-17	|	8-Dec-17	|	[UCC 2017](http://ucc-conference.org)	|	Austin, TX	|	TBD	|
 |	6-Dec-17	|	7-Dec-17	|	[CloudNativeCon NA 2017](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-north-america)	|	Austin, TX	|	Attending	|
+| 17-Aug-17 | 17-Aug-17 | [Emit Conference](http://www.emitconference.com) | San Francisco, CA | |
 |		|		|	[DevSecCon](http://www.devseccon.com)	|	TBD	|	No	|
