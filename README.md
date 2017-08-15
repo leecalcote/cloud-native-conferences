@@ -31,6 +31,7 @@
 |	27-Jun-17	|	30-Jun-17	|	[QConf SF](https://qconferences.com)	|	New York, NY	|	TBD	|
 |	8-Jul-17	|	8-Jul-17	|	[Texas Linux Fest](http://2016.texaslinuxfest.org)	|	Austin, TX	|	TBD	|
 |	19-Jul-17	|	19-Jul-17	|	[Container Summit](http://containersummit.io/city-series/2016/austin)	|	Austin, TX	|	Hosting	|
+| 17-Aug-17 | 18-Aug-17 | [PromCon](https://promcon.io/2017-munich/) | Munich, GE | Not Attending |
 |	21-Aug-17	|	25-Aug-17	|	[SIGCOMM 2017](http://conferences.sigcomm.org/sigcomm/2017/)	|	Los Angeles	|	TBD	|
 |	7-Sep-17	|	9-Sep-17	|	[Nginx Conference](https://www.nginx.com/nginxconf/)	|	Austin, TX	|	Speaking	|
 |	13-Sep-17	|	14-Sep-17	|	[Open Source Summit North America](http://events.linuxfoundation.org/events/open-source-summit-north-america)	|	Los Angeles, CA	|	TBD	|
