@@ -51,4 +51,5 @@
 |	6-Dec-17	|	7-Dec-17	|	[CloudNativeCon NA 2017](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-north-america)	|	Austin, TX	|	Attending	|
 | 17-Aug-17 | 17-Aug-17 | [Emit Conference](http://www.emitconference.com) | San Francisco, CA | |
 |	10-Oct-17	|	12-Oct-17	|	[Github Universe](http://githubuniverse.com)	|	San Francisco, CA	|	No	|
+|	23-Oct-17	|	24-Oct-17	|	[Cloud Security Summit](https://tmt.knect365.com/cloud-security-summit/)	|	New York, NY	|	No	|
 |		|		|	[DevSecCon](http://www.devseccon.com)	|	TBD	|	No	|
