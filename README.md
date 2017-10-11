@@ -46,10 +46,11 @@
 |	13-Nov-17	|	17-Nov-17	|	[QConf SF](https://qconferences.com)(ext)	|	San Francisco, CA	|	TBD	|
 |	27-Nov-17	|	1-Dec-17	|	[AWS re:Invent](https://reinvent.awsevents.com)	|	Las Vegas, NV	|	Sponsoring	|
 |	29-Nov-17	|	2-Dec-17	|	[Node.js Conference](http://events.linuxfoundation.org/events/node-interactive)	|	Austin, TX	|	Attending	|
-|	5-Dec-17	|	9-Dec-17	|	[SolarWinds Tech Summit](https://www.solarwindsmeetup.com/event/techsummit-conference-2016/)	|	Brno, CZ	|	Speaking	|
+|	14-Dec-17	|	14-Dec-17	|	[SolarWinds Innovate Summit](http://innovate.solarwinds.io)	|	Brno, CZ	|	Speaking	|
 |	5-Dec-17	|	8-Dec-17	|	[UCC 2017](http://ucc-conference.org)	|	Austin, TX	|	TBD	|
 |	6-Dec-17	|	7-Dec-17	|	[CloudNativeCon NA 2017](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-north-america)	|	Austin, TX	|	Attending	|
 | 17-Aug-17 | 17-Aug-17 | [Emit Conference](http://www.emitconference.com) | San Francisco, CA | |
 |	10-Oct-17	|	12-Oct-17	|	[Github Universe](http://githubuniverse.com)	|	San Francisco, CA	|	No	|
 |	23-Oct-17	|	24-Oct-17	|	[Cloud Security Summit](https://tmt.knect365.com/cloud-security-summit/)	|	New York, NY	|	No	|
+
 |		|		|	[DevSecCon](http://www.devseccon.com)	|	TBD	|	No	|
