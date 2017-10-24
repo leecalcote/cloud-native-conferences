@@ -53,4 +53,5 @@
 |	10-Oct-17	|	12-Oct-17	|	[Github Universe](http://githubuniverse.com)	|	San Francisco, CA	|	No	|
 |	23-Oct-17	|	24-Oct-17	|	[Cloud Security Summit](https://tmt.knect365.com/cloud-security-summit/)	|	New York, NY	|	No	|
 | 7-Nov-17 | 9-Nov-17 | [DeveloperWeek](http://www.developerweek.com/Austin/) | Austin, TX | |
+|	19-Mar-17	|	22-Mar-17 |	[IBM Think 2018](https://www.ibm.com/events/think)	|	Las Vegas, NV	|	No	|
 |		|		|	[DevSecCon](http://www.devseccon.com)	|	TBD	|	No	|
