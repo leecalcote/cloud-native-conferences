@@ -29,6 +29,7 @@
 |	20-Jun-17	|	22-Jun-17	|	[Fluent](https://conferences.oreilly.com/fluent/fl-ca) and [Velocity](https://conferences.oreilly.com/velocity/vl-ca)	|	San Jose, CA	|	Speaking	|
 |	22-Jun-17	|	22-Jun-17	|	[AnsibleFest](https://www.ansible.com/ansiblefest)	|	London, UK	|	No	|
 |	27-Jun-17	|	30-Jun-17	|	[QConf SF](https://qconferences.com)	|	New York, NY	|	TBD	|
+|	18-Jun-18	|	20-Jun-18	|	[Container Days 2018](https://containerdays.io)	|	Hamburg, GE	| No	|
 |	8-Jul-17	|	8-Jul-17	|	[Texas Linux Fest](http://2016.texaslinuxfest.org)	|	Austin, TX	|	TBD	|
 |	19-Jul-17	|	19-Jul-17	|	[Container Summit](http://containersummit.io/city-series/2016/austin)	|	Austin, TX	|	Hosting	|
 | 17-Aug-17 | 18-Aug-17 | [PromCon](https://promcon.io/2017-munich/) | Munich, GE | Not Attending |
