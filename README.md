@@ -7,4 +7,4 @@
 ### Contributing
 Community curation of these lists is welcomed. PR at-will.
 
-<script async defer src="http://slack.layer5.io/slackin.js?large"></script>
+<img src="http://slack.layer5.io/badge.svg">
